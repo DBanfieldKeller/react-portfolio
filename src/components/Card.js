@@ -1,7 +1,7 @@
 import React from "react";
 
 // Individual Card build-out using props
-function ProjectCards(props) {
+function Card(props) {
     return (
       <div className="card"> 
         <div className="img-container">
@@ -21,4 +21,4 @@ function ProjectCards(props) {
     );
 }
   
-  export default ProjectCards;
+  export default Card;
