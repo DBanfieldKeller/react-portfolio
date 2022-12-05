@@ -22,7 +22,9 @@ function Navigation(props) {
                 }}>Projects</div>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Contact Me</a>
+                <div className="nav-link" onClick={(e)=>{
+                  props.setPage('ContactMe')
+                }}>Contact Me</div>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">Resume</a>

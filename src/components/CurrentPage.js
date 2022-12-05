@@ -1,14 +1,14 @@
 import React from "react";
 import AboutMe from "./AboutMe";
-import SecondPage from "./SecondPage";
+import ContactMe from "./ContactMe";
 import Projects from "./Projects";
 
 export default function CurrentPage(props) {
     let display
     if (props.currentPageState === "AboutMe") {
         display = <AboutMe />
-    } else if (props.currentPageState === "SecondPage") {
-        display = <SecondPage />
+    } else if (props.currentPageState === "ContactMe") {
+        display = <ContactMe />
     } else if (props.currentPageState === "Projects") {
         display = <Projects />
     }
