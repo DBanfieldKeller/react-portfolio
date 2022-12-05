@@ -21,7 +21,7 @@ function Navigation(props) {
                 <a className="nav-link" href="#">Contact Me</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">resume</a>
+                <a className="nav-link" href="#">Resume</a>
               </li>
             </ul>
             <form className="d-flex" role="search">
