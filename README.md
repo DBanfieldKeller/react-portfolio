@@ -3,7 +3,7 @@
 ## Description
 This project sets out to create a personal portfolio site using react. It features a fully functional web application that includes a short bio, recent projects, contact, and resume section. Formatting (WIP) is done using bootstrap. The application features a fully dynamically rendered interface that does not require page reloads. The formatting is somewhat basic as of now, but will be polished in the future. With additional refactoring and polish, this will be used as my primary portfolio site to show to prospective employers. 
 
-The site is hosted at 
+The site is hosted at https://dbanfieldkeller.github.io/react-portfolio/
 
 ## Table of Contents
  - [Description](#description)
@@ -19,7 +19,7 @@ N/A
  
  ## Usage
 
-Please visit the site at: 
+Please visit the site at: https://dbanfieldkeller.github.io/react-portfolio/
 
 It should appear as below
 
