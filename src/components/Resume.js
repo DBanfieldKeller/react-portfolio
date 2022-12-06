@@ -13,19 +13,19 @@ function Resume() {
                     <a href="https://www.linkedin.com/in/daniel-keller-43762171/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="My LinkedIn"/></a>
                     </p>
                     <p>
-                    Download my full <a href="" class="link">resume</a>
+                    Download my full <a href="https://github.com/DBanfieldKeller/react-portfolio/raw/main/src/assets/Resume%20Daniel%20Banfield-Keller%202022%204-16-22.pdf" class="link">resume</a>
                     <br></br>
                     </p>
                 </div>
             </div>
     
             <div class="justify-content-center mt-5">
-                <div id="front-back">
+                <div >
                     <h2>front end experience</h2>
                     <p>HTML, CSS, Bootstrap, JavaScript, jQuery, React.js</p>
                 </div>
         
-                <div id="front-back" class="mt-5">
+                <div class="mt-5">
                     <h2>back end experience</h2>
                     <p>
                     Node.js, Express.js, SQL (mySQL), Sequelize, NoSQL (MongoDB, Mongoose), API's (third-party, RESTful, server-side), Templating (Handlebars)
