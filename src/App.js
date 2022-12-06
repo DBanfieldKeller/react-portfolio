@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
     <Header />
-    <Navigation setPage={setPage} />
+    <Navigation setPage={setPage} currentPageState={currentPageState} />
     <CurrentPage currentPageState={currentPageState} />
     <Footer />
     </div>
