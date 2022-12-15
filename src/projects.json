@@ -1,11 +1,11 @@
 [
     {
     "id": 1,
-    "name": "Social Network API",
-    "image": "https://raw.githubusercontent.com/DBanfieldKeller/react-portfolio/main/src/assets/socnetapi.PNG",
-    "github": "https://github.com/DBanfieldKeller/social-network-api",
-    "deploy": "https://github.com/DBanfieldKeller/social-network-api",
-    "topics": "node-js, express-js, mongoDB"
+    "name": "Virtual Escape Room App",
+    "image": "https://raw.githubusercontent.com/DBanfieldKeller/react-portfolio/main/src/assets/escape.PNG",
+    "github": "https://github.com/DBanfieldKeller/virtual-escape-room",
+    "deploy": "https://virtual-escape-room-mikeyboxx.herokuapp.com/",
+    "topics": "MERN, node-js, express-js, mongoDB, react, react-app-bootstrap, graphQL, state"
     },
     {
     "id": 2,
