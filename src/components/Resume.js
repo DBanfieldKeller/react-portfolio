@@ -13,7 +13,7 @@ function Resume() {
                     <a href="https://www.linkedin.com/in/daniel-keller-43762171/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="My LinkedIn"/></a>
                     </p>
                     <p>
-                    Download my full <a href="https://github.com/DBanfieldKeller/react-portfolio/raw/main/src/assets/Resume%20Daniel%20Banfield-Keller%202022%204-16-22.pdf" class="link">resume</a>
+                    Download my full <a href="https://github.com/DBanfieldKeller/react-portfolio/raw/main/src/assets/Resume%20Daniel%20Banfield-Keller%2012-19-2022.pdf" class="link">resume</a>
                     <br></br>
                     </p>
                 </div>
